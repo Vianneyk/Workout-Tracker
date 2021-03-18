@@ -23,5 +23,7 @@ The user is able to:
  ## Tracker Page
 
  ![Tracker](public/images/tracker.png)
+ 
+ Clik [here](https://fathomless-shelf-33726.herokuapp.com/) to launch the deployed app.
 
 
